@@ -1,7 +1,7 @@
 # DataMining_TorontoSocioeconomicClassification
 Jupyter Notebook | Scikit-learn | Weka | ArcGIS
 
-        The objective of this study is to explore the existing relationships between people's residential locations and 
+   The objective of this study is to explore the existing relationships between people's residential locations and
 their socio-economic characteristics to attempt to make suitable residential location predictions or recommendations 
 on GTA census subdivisions based on individual's or household's socio-economic status. The case study will implement 
 various data mining classification techniques for area prediction along with the support use of ArcGIS software for 
